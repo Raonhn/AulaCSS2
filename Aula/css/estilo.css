@@ -26,10 +26,6 @@ body {
 
 .header ul #aqui {
     font-weight: 1000;
-    color: #32b9cd;
-}
-.header ul #aqui2 {
-    font-weight: 1000;
     color: #e3b062;
 }
 
@@ -62,8 +58,8 @@ a {
 /* Começo do Banner */
 
 .banner {
-    background-image: url("imgs/bg-jelly-fish-para-home.png");
-    height: 500px;
+    background-image: url("../img/bg-jelly-fish-para_outras_pags.png");
+    height: 700px;
     color: #fff;
     display: flex;
 }
